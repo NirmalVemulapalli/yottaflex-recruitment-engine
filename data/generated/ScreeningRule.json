@@ -1,0 +1,902 @@
+[
+  {
+    "screening_rule_id": "SCR-000001",
+    "requisition_id": "REQ-2026-000001",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-06-22",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000002",
+    "requisition_id": "REQ-2026-000002",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-08",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000003",
+    "requisition_id": "REQ-2026-000003",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-24",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000004",
+    "requisition_id": "REQ-2026-000004",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-25",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000005",
+    "requisition_id": "REQ-2026-000005",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-04-17",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000006",
+    "requisition_id": "REQ-2026-000006",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-01-24",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000007",
+    "requisition_id": "REQ-2026-000007",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-21",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000008",
+    "requisition_id": "REQ-2026-000008",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-28",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000009",
+    "requisition_id": "REQ-2026-000009",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-15",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000010",
+    "requisition_id": "REQ-2026-000010",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-04-23",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000011",
+    "requisition_id": "REQ-2026-000011",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-06-09",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000012",
+    "requisition_id": "REQ-2026-000012",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-01-06",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000013",
+    "requisition_id": "REQ-2026-000013",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-15",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000014",
+    "requisition_id": "REQ-2026-000014",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-14",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000015",
+    "requisition_id": "REQ-2026-000015",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-06",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000016",
+    "requisition_id": "REQ-2026-000016",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-24",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000017",
+    "requisition_id": "REQ-2026-000017",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-04",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000018",
+    "requisition_id": "REQ-2026-000018",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-06-27",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000019",
+    "requisition_id": "REQ-2026-000019",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-25",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000020",
+    "requisition_id": "REQ-2026-000020",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-01-08",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000021",
+    "requisition_id": "REQ-2026-000021",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-22",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000022",
+    "requisition_id": "REQ-2026-000022",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-01-05",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000023",
+    "requisition_id": "REQ-2026-000023",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-06",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000024",
+    "requisition_id": "REQ-2026-000024",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-10",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000025",
+    "requisition_id": "REQ-2026-000025",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-04-07",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000026",
+    "requisition_id": "REQ-2026-000026",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-06",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000027",
+    "requisition_id": "REQ-2026-000027",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-10-05",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000028",
+    "requisition_id": "REQ-2026-000028",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-23",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000029",
+    "requisition_id": "REQ-2026-000029",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-06",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000030",
+    "requisition_id": "REQ-2026-000030",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-29",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000031",
+    "requisition_id": "REQ-2026-000031",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-23",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000032",
+    "requisition_id": "REQ-2026-000032",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-08",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000033",
+    "requisition_id": "REQ-2026-000033",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-21",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000034",
+    "requisition_id": "REQ-2026-000034",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-29",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000035",
+    "requisition_id": "REQ-2026-000035",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-19",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000036",
+    "requisition_id": "REQ-2026-000036",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-14",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000037",
+    "requisition_id": "REQ-2026-000037",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-06-12",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000038",
+    "requisition_id": "REQ-2026-000038",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-20",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000039",
+    "requisition_id": "REQ-2026-000039",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-03-21",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000040",
+    "requisition_id": "REQ-2026-000040",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-10",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000041",
+    "requisition_id": "REQ-2026-000041",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-28",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000042",
+    "requisition_id": "REQ-2026-000042",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-06-09",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000043",
+    "requisition_id": "REQ-2026-000043",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-06-18",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000044",
+    "requisition_id": "REQ-2026-000044",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-08",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000045",
+    "requisition_id": "REQ-2026-000045",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-17",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000046",
+    "requisition_id": "REQ-2026-000046",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-01-20",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000047",
+    "requisition_id": "REQ-2026-000047",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-14",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000048",
+    "requisition_id": "REQ-2026-000048",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-05",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000049",
+    "requisition_id": "REQ-2026-000049",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-01",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000050",
+    "requisition_id": "REQ-2026-000050",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-22",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000051",
+    "requisition_id": "REQ-2026-000051",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-25",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000052",
+    "requisition_id": "REQ-2026-000052",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-16",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000053",
+    "requisition_id": "REQ-2026-000053",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-06-29",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000054",
+    "requisition_id": "REQ-2026-000054",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-09",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000055",
+    "requisition_id": "REQ-2026-000055",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-10-06",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000056",
+    "requisition_id": "REQ-2026-000056",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-22",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000057",
+    "requisition_id": "REQ-2026-000057",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-16",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000058",
+    "requisition_id": "REQ-2026-000058",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-10-23",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000059",
+    "requisition_id": "REQ-2026-000059",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-10-03",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000060",
+    "requisition_id": "REQ-2026-000060",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-16",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000061",
+    "requisition_id": "REQ-2026-000061",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-10-06",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000062",
+    "requisition_id": "REQ-2026-000062",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-18",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000063",
+    "requisition_id": "REQ-2026-000063",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-21",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000064",
+    "requisition_id": "REQ-2026-000064",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-05",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000065",
+    "requisition_id": "REQ-2026-000065",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-10-12",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000066",
+    "requisition_id": "REQ-2026-000066",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-14",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000067",
+    "requisition_id": "REQ-2026-000067",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-01-07",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000068",
+    "requisition_id": "REQ-2026-000068",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-03-02",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000069",
+    "requisition_id": "REQ-2026-000069",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-10-10",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000070",
+    "requisition_id": "REQ-2026-000070",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-01",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000071",
+    "requisition_id": "REQ-2026-000071",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-16",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000072",
+    "requisition_id": "REQ-2026-000072",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-04-25",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000073",
+    "requisition_id": "REQ-2026-000073",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-12",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000074",
+    "requisition_id": "REQ-2026-000074",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-06-23",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000075",
+    "requisition_id": "REQ-2026-000075",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-03-07",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000076",
+    "requisition_id": "REQ-2026-000076",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-24",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000077",
+    "requisition_id": "REQ-2026-000077",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-17",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000078",
+    "requisition_id": "REQ-2026-000078",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-11",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000079",
+    "requisition_id": "REQ-2026-000079",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-08-20",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000080",
+    "requisition_id": "REQ-2026-000080",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-25",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000081",
+    "requisition_id": "REQ-2026-000081",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-22",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000082",
+    "requisition_id": "REQ-2026-000082",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-03",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000083",
+    "requisition_id": "REQ-2026-000083",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-04",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000084",
+    "requisition_id": "REQ-2026-000084",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-06",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000085",
+    "requisition_id": "REQ-2026-000085",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-01-10",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000086",
+    "requisition_id": "REQ-2026-000086",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-25",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000087",
+    "requisition_id": "REQ-2026-000087",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-14",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000088",
+    "requisition_id": "REQ-2026-000088",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-13",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000089",
+    "requisition_id": "REQ-2026-000089",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-04",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000090",
+    "requisition_id": "REQ-2026-000090",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-01-30",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000091",
+    "requisition_id": "REQ-2026-000091",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-09-28",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000092",
+    "requisition_id": "REQ-2026-000092",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-03-13",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000093",
+    "requisition_id": "REQ-2026-000093",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-03-09",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000094",
+    "requisition_id": "REQ-2026-000094",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-02-21",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000095",
+    "requisition_id": "REQ-2026-000095",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-05-16",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000096",
+    "requisition_id": "REQ-2026-000096",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-10",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000097",
+    "requisition_id": "REQ-2026-000097",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-18",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000098",
+    "requisition_id": "REQ-2026-000098",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-03-18",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000099",
+    "requisition_id": "REQ-2026-000099",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-10-11",
+    "effective_to": ""
+  },
+  {
+    "screening_rule_id": "SCR-000100",
+    "requisition_id": "REQ-2026-000100",
+    "minimum_match_pct": 60,
+    "required_skill_weight": 0.8,
+    "experience_weight": 0.2,
+    "effective_from": "2026-07-27",
+    "effective_to": ""
+  }
+]

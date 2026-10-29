@@ -1,0 +1,16 @@
+skill_id,name,category
+SKL-001,Python,technical
+SKL-002,SQL,technical
+SKL-003,Java,technical
+SKL-004,React,technical
+SKL-005,Data Analysis,technical
+SKL-006,Power BI,technical
+SKL-007,Machine Learning,technical
+SKL-008,AWS,technical
+SKL-009,Communication,professional
+SKL-010,Project Management,professional
+SKL-011,Excel,technical
+SKL-012,Spring Boot,technical
+SKL-013,Statistics,technical
+SKL-014,ETL,technical
+SKL-015,Linux,technical

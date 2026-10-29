@@ -1,0 +1,6 @@
+issue_type,entity_type,entity_id,expected_decision,description
+duplicate_application,Application,APP-REQ-2026-000001-CAND-000001-DUP01,flag_duplicate,Same requisition-candidate pair as APP-REQ-2026-000001-CAND-000001
+interviewer_conflict,Interview,INT-2026-999999,flag_schedule_conflict,Overlaps another interview for the same interviewer; baseline interview remains unchanged
+missing_feedback_stage_advanced,Application,APP-REQ-2026-000027-CAND-000770,block_transition,Stage advanced without required structured feedback
+salary_outside_approved_band,Offer,OFF-2026-000001,reject_or_escalate,Salary exceeds requisition approved maximum
+closed_role_active_application,Application,APP-REQ-2026-000001-CAND-000002-EDGE01,flag_or_close_application,Application remains active after requisition closure

@@ -1,0 +1,63 @@
+$ PYTHONPATH=src /opt/pyvenv/bin/python -m pytest -q
+...                                                                      [100%]
+3 passed in 1.65s
+
+$ PYTHONPATH=src /opt/pyvenv/bin/python -m recruitment_engine.engine audit --data data/generated
+{
+  "findings_count": 5,
+  "by_rule": {
+    "duplicate_application_pair": 1,
+    "interviewer_time_conflict": 1,
+    "missing_feedback_before_progression": 1,
+    "active_application_on_closed_role": 1,
+    "offer_salary_outside_band": 1
+  },
+  "by_severity": {
+    "high": 4,
+    "medium": 1
+  },
+  "findings": [
+    {
+      "rule": "duplicate_application_pair",
+      "severity": "high",
+      "entity_ids": [
+        "APP-REQ-2026-000001-CAND-000001",
+        "APP-REQ-2026-000001-CAND-000001-DUP01"
+      ],
+      "details": "Duplicate pair REQ-2026-000001 / CAND-000001"
+    },
+    {
+      "rule": "interviewer_time_conflict",
+      "severity": "high",
+      "entity_ids": [
+        "INT-2026-000001",
+        "INT-2026-999999"
+      ],
+      "details": "Overlapping slots for IVR-0001"
+    },
+    {
+      "rule": "missing_feedback_before_progression",
+      "severity": "high",
+      "entity_ids": [
+        "APP-REQ-2026-000027-CAND-000770"
+      ],
+      "details": "Application advanced despite missing feedback"
+    },
+    {
+      "rule": "active_application_on_closed_role",
+      "severity": "medium",
+      "entity_ids": [
+        "APP-REQ-2026-000001-CAND-000002-EDGE01"
+      ],
+      "details": "Application is active while requisition is closed"
+    },
+    {
+      "rule": "offer_salary_outside_band",
+      "severity": "high",
+      "entity_ids": [
+        "OFF-2026-000001"
+      ],
+      "details": "Offer salary outside approved requisition band"
+    }
+  ]
+}

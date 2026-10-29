@@ -1,0 +1,48 @@
+{
+  "verification_scope": "Local verification of the recruitment workflow and data-quality engine",
+  "test_command": "PYTHONPATH=src python -m pytest -q",
+  "test_result": "3 passed",
+  "generation_seed": 20261022,
+  "scale": 1,
+  "manifest_counts": {
+    "Department": 7,
+    "JobRequisition": 100,
+    "Candidate": 2000,
+    "Skill": 15,
+    "RequisitionSkill": 398,
+    "CandidateSkill": 10971,
+    "ResumeArtifact": 2000,
+    "ScreeningRule": 100,
+    "Application": 3002,
+    "Interviewer": 120,
+    "Interview": 601,
+    "Feedback": 286,
+    "Offer": 150,
+    "ApplicationEvent": 6645
+  },
+  "validation_status": "PASS",
+  "validation_errors": 0,
+  "sqlite_foreign_key_check": "PASS",
+  "reproducibility": "PASS: generated output files matched byte-for-byte in two independent output directories using scripts/verify_reproducibility.py",
+  "reproducibility_file_count": 38,
+  "audit_findings_count": 5,
+  "audit_findings_by_rule": {
+    "duplicate_application_pair": 1,
+    "interviewer_time_conflict": 1,
+    "missing_feedback_before_progression": 1,
+    "active_application_on_closed_role": 1,
+    "offer_salary_outside_band": 1
+  },
+  "derived_metrics": {
+    "application_count": 3002,
+    "screening_pass_rate_pct": 26.55,
+    "average_screening_score": 43.58,
+    "withdrawn_application_rate_pct": 40.64,
+    "completed_interview_count": 287,
+    "completed_interview_feedback_coverage_pct": 99.65,
+    "offer_count": 150,
+    "offer_acceptance_rate_pct": 23.33,
+    "offers_within_salary_band_pct": 99.33
+  },
+  "note": "Limited local verification, not exhaustive correctness or production-readiness certification."
+}

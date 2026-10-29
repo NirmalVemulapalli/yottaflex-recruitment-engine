@@ -1,0 +1,2390 @@
+[
+  {
+    "requisition_id": "REQ-2026-000001",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000001",
+    "skill_id": "SKL-012",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000001",
+    "skill_id": "SKL-009",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000002",
+    "skill_id": "SKL-004",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000002",
+    "skill_id": "SKL-010",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000002",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000003",
+    "skill_id": "SKL-003",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000003",
+    "skill_id": "SKL-008",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000003",
+    "skill_id": "SKL-002",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000004",
+    "skill_id": "SKL-013",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000004",
+    "skill_id": "SKL-007",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000004",
+    "skill_id": "SKL-002",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000004",
+    "skill_id": "SKL-014",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000004",
+    "skill_id": "SKL-008",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000005",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000005",
+    "skill_id": "SKL-004",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000005",
+    "skill_id": "SKL-001",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000005",
+    "skill_id": "SKL-002",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000006",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000006",
+    "skill_id": "SKL-013",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000006",
+    "skill_id": "SKL-010",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000006",
+    "skill_id": "SKL-007",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000007",
+    "skill_id": "SKL-012",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000007",
+    "skill_id": "SKL-009",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000007",
+    "skill_id": "SKL-011",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000007",
+    "skill_id": "SKL-006",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000007",
+    "skill_id": "SKL-001",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000008",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000008",
+    "skill_id": "SKL-013",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000008",
+    "skill_id": "SKL-001",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000008",
+    "skill_id": "SKL-007",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000008",
+    "skill_id": "SKL-015",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000009",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000009",
+    "skill_id": "SKL-012",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000009",
+    "skill_id": "SKL-011",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000009",
+    "skill_id": "SKL-015",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000009",
+    "skill_id": "SKL-014",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000010",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000010",
+    "skill_id": "SKL-003",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000010",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000011",
+    "skill_id": "SKL-013",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000011",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000011",
+    "skill_id": "SKL-009",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000011",
+    "skill_id": "SKL-004",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000011",
+    "skill_id": "SKL-002",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000012",
+    "skill_id": "SKL-007",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000012",
+    "skill_id": "SKL-009",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000012",
+    "skill_id": "SKL-010",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000012",
+    "skill_id": "SKL-006",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000012",
+    "skill_id": "SKL-002",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000013",
+    "skill_id": "SKL-005",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000013",
+    "skill_id": "SKL-012",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000013",
+    "skill_id": "SKL-006",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000013",
+    "skill_id": "SKL-007",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000013",
+    "skill_id": "SKL-010",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000014",
+    "skill_id": "SKL-002",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000014",
+    "skill_id": "SKL-015",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000014",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000014",
+    "skill_id": "SKL-008",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000015",
+    "skill_id": "SKL-013",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000015",
+    "skill_id": "SKL-001",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000015",
+    "skill_id": "SKL-014",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000015",
+    "skill_id": "SKL-002",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000016",
+    "skill_id": "SKL-007",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000016",
+    "skill_id": "SKL-006",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000016",
+    "skill_id": "SKL-015",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000016",
+    "skill_id": "SKL-014",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000017",
+    "skill_id": "SKL-013",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000017",
+    "skill_id": "SKL-002",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000017",
+    "skill_id": "SKL-007",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000017",
+    "skill_id": "SKL-009",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000018",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000018",
+    "skill_id": "SKL-011",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000018",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000018",
+    "skill_id": "SKL-003",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000018",
+    "skill_id": "SKL-010",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000019",
+    "skill_id": "SKL-005",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000019",
+    "skill_id": "SKL-004",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000019",
+    "skill_id": "SKL-015",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000019",
+    "skill_id": "SKL-003",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000019",
+    "skill_id": "SKL-013",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000020",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000020",
+    "skill_id": "SKL-013",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000020",
+    "skill_id": "SKL-012",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000020",
+    "skill_id": "SKL-006",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000021",
+    "skill_id": "SKL-007",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000021",
+    "skill_id": "SKL-006",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000021",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000021",
+    "skill_id": "SKL-014",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000022",
+    "skill_id": "SKL-002",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000022",
+    "skill_id": "SKL-011",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000022",
+    "skill_id": "SKL-010",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000022",
+    "skill_id": "SKL-014",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000023",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000023",
+    "skill_id": "SKL-007",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000023",
+    "skill_id": "SKL-011",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000023",
+    "skill_id": "SKL-012",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000024",
+    "skill_id": "SKL-006",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000024",
+    "skill_id": "SKL-013",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000024",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000025",
+    "skill_id": "SKL-002",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000025",
+    "skill_id": "SKL-012",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000025",
+    "skill_id": "SKL-006",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000025",
+    "skill_id": "SKL-001",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000026",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000026",
+    "skill_id": "SKL-002",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000026",
+    "skill_id": "SKL-006",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000026",
+    "skill_id": "SKL-003",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000027",
+    "skill_id": "SKL-013",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000027",
+    "skill_id": "SKL-005",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000027",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000027",
+    "skill_id": "SKL-002",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000027",
+    "skill_id": "SKL-014",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000028",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000028",
+    "skill_id": "SKL-007",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000028",
+    "skill_id": "SKL-012",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000029",
+    "skill_id": "SKL-011",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000029",
+    "skill_id": "SKL-003",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000029",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000029",
+    "skill_id": "SKL-010",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000030",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000030",
+    "skill_id": "SKL-001",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000030",
+    "skill_id": "SKL-012",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000030",
+    "skill_id": "SKL-011",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000031",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000031",
+    "skill_id": "SKL-001",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000031",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000032",
+    "skill_id": "SKL-012",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000032",
+    "skill_id": "SKL-003",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000032",
+    "skill_id": "SKL-010",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000032",
+    "skill_id": "SKL-008",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000032",
+    "skill_id": "SKL-014",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000033",
+    "skill_id": "SKL-003",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000033",
+    "skill_id": "SKL-011",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000033",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000034",
+    "skill_id": "SKL-015",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000034",
+    "skill_id": "SKL-006",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000034",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000035",
+    "skill_id": "SKL-015",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000035",
+    "skill_id": "SKL-004",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000035",
+    "skill_id": "SKL-010",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000035",
+    "skill_id": "SKL-009",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000035",
+    "skill_id": "SKL-003",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000036",
+    "skill_id": "SKL-011",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000036",
+    "skill_id": "SKL-006",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000036",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000037",
+    "skill_id": "SKL-010",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000037",
+    "skill_id": "SKL-011",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000037",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000037",
+    "skill_id": "SKL-013",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000037",
+    "skill_id": "SKL-003",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000038",
+    "skill_id": "SKL-007",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000038",
+    "skill_id": "SKL-006",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000038",
+    "skill_id": "SKL-014",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000038",
+    "skill_id": "SKL-011",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000038",
+    "skill_id": "SKL-012",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000039",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000039",
+    "skill_id": "SKL-002",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000039",
+    "skill_id": "SKL-014",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000040",
+    "skill_id": "SKL-015",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000040",
+    "skill_id": "SKL-010",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000040",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000040",
+    "skill_id": "SKL-002",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000040",
+    "skill_id": "SKL-003",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000041",
+    "skill_id": "SKL-005",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000041",
+    "skill_id": "SKL-007",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000041",
+    "skill_id": "SKL-009",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000041",
+    "skill_id": "SKL-008",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000042",
+    "skill_id": "SKL-012",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000042",
+    "skill_id": "SKL-004",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000042",
+    "skill_id": "SKL-011",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000042",
+    "skill_id": "SKL-005",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000042",
+    "skill_id": "SKL-010",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000043",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000043",
+    "skill_id": "SKL-010",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000043",
+    "skill_id": "SKL-014",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000044",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000044",
+    "skill_id": "SKL-008",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000044",
+    "skill_id": "SKL-007",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000044",
+    "skill_id": "SKL-004",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000045",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000045",
+    "skill_id": "SKL-005",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000045",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000046",
+    "skill_id": "SKL-015",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000046",
+    "skill_id": "SKL-012",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000046",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000047",
+    "skill_id": "SKL-005",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000047",
+    "skill_id": "SKL-011",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000047",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000048",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000048",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000048",
+    "skill_id": "SKL-006",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000048",
+    "skill_id": "SKL-002",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000048",
+    "skill_id": "SKL-012",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000049",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000049",
+    "skill_id": "SKL-013",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000049",
+    "skill_id": "SKL-002",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000049",
+    "skill_id": "SKL-001",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000049",
+    "skill_id": "SKL-011",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000050",
+    "skill_id": "SKL-006",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000050",
+    "skill_id": "SKL-013",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000050",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000051",
+    "skill_id": "SKL-014",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000051",
+    "skill_id": "SKL-011",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000051",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000051",
+    "skill_id": "SKL-002",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000051",
+    "skill_id": "SKL-010",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000052",
+    "skill_id": "SKL-005",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000052",
+    "skill_id": "SKL-012",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000052",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000052",
+    "skill_id": "SKL-001",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000052",
+    "skill_id": "SKL-014",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000053",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000053",
+    "skill_id": "SKL-015",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000053",
+    "skill_id": "SKL-012",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000054",
+    "skill_id": "SKL-015",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000054",
+    "skill_id": "SKL-013",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000054",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000054",
+    "skill_id": "SKL-005",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000055",
+    "skill_id": "SKL-007",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000055",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000055",
+    "skill_id": "SKL-015",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000055",
+    "skill_id": "SKL-012",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000056",
+    "skill_id": "SKL-014",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000056",
+    "skill_id": "SKL-010",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000056",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000057",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000057",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000057",
+    "skill_id": "SKL-012",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000057",
+    "skill_id": "SKL-013",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000057",
+    "skill_id": "SKL-015",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000058",
+    "skill_id": "SKL-004",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000058",
+    "skill_id": "SKL-008",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000058",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000059",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000059",
+    "skill_id": "SKL-002",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000059",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000059",
+    "skill_id": "SKL-014",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000059",
+    "skill_id": "SKL-010",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000060",
+    "skill_id": "SKL-003",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000060",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000060",
+    "skill_id": "SKL-001",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000060",
+    "skill_id": "SKL-013",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000061",
+    "skill_id": "SKL-003",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000061",
+    "skill_id": "SKL-015",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000061",
+    "skill_id": "SKL-010",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000061",
+    "skill_id": "SKL-013",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000062",
+    "skill_id": "SKL-010",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000062",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000062",
+    "skill_id": "SKL-001",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000063",
+    "skill_id": "SKL-015",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000063",
+    "skill_id": "SKL-004",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000063",
+    "skill_id": "SKL-007",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000064",
+    "skill_id": "SKL-015",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000064",
+    "skill_id": "SKL-002",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000064",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000064",
+    "skill_id": "SKL-005",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000065",
+    "skill_id": "SKL-003",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000065",
+    "skill_id": "SKL-010",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000065",
+    "skill_id": "SKL-001",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000066",
+    "skill_id": "SKL-011",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000066",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000066",
+    "skill_id": "SKL-013",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000066",
+    "skill_id": "SKL-008",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000066",
+    "skill_id": "SKL-002",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000067",
+    "skill_id": "SKL-004",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000067",
+    "skill_id": "SKL-011",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000067",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000067",
+    "skill_id": "SKL-009",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000067",
+    "skill_id": "SKL-008",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000068",
+    "skill_id": "SKL-002",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000068",
+    "skill_id": "SKL-001",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000068",
+    "skill_id": "SKL-009",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000068",
+    "skill_id": "SKL-012",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000068",
+    "skill_id": "SKL-007",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000069",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000069",
+    "skill_id": "SKL-007",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000069",
+    "skill_id": "SKL-013",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000069",
+    "skill_id": "SKL-011",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000069",
+    "skill_id": "SKL-009",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000070",
+    "skill_id": "SKL-003",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000070",
+    "skill_id": "SKL-001",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000070",
+    "skill_id": "SKL-009",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000070",
+    "skill_id": "SKL-007",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000070",
+    "skill_id": "SKL-015",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000071",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000071",
+    "skill_id": "SKL-005",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000071",
+    "skill_id": "SKL-012",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000071",
+    "skill_id": "SKL-010",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000071",
+    "skill_id": "SKL-007",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000072",
+    "skill_id": "SKL-002",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000072",
+    "skill_id": "SKL-010",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000072",
+    "skill_id": "SKL-003",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000073",
+    "skill_id": "SKL-012",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000073",
+    "skill_id": "SKL-005",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000073",
+    "skill_id": "SKL-007",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000073",
+    "skill_id": "SKL-015",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000074",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000074",
+    "skill_id": "SKL-002",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000074",
+    "skill_id": "SKL-010",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000074",
+    "skill_id": "SKL-012",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000075",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000075",
+    "skill_id": "SKL-003",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000075",
+    "skill_id": "SKL-009",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000075",
+    "skill_id": "SKL-011",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000076",
+    "skill_id": "SKL-005",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000076",
+    "skill_id": "SKL-010",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000076",
+    "skill_id": "SKL-007",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000077",
+    "skill_id": "SKL-012",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000077",
+    "skill_id": "SKL-013",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000077",
+    "skill_id": "SKL-010",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000078",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000078",
+    "skill_id": "SKL-007",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000078",
+    "skill_id": "SKL-011",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000079",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000079",
+    "skill_id": "SKL-004",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000079",
+    "skill_id": "SKL-011",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000079",
+    "skill_id": "SKL-002",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000079",
+    "skill_id": "SKL-005",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000080",
+    "skill_id": "SKL-007",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000080",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000080",
+    "skill_id": "SKL-003",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000081",
+    "skill_id": "SKL-009",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000081",
+    "skill_id": "SKL-004",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000081",
+    "skill_id": "SKL-002",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000082",
+    "skill_id": "SKL-005",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000082",
+    "skill_id": "SKL-011",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000082",
+    "skill_id": "SKL-007",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000083",
+    "skill_id": "SKL-011",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000083",
+    "skill_id": "SKL-012",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000083",
+    "skill_id": "SKL-003",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000084",
+    "skill_id": "SKL-010",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000084",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000084",
+    "skill_id": "SKL-009",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000084",
+    "skill_id": "SKL-002",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000084",
+    "skill_id": "SKL-003",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000085",
+    "skill_id": "SKL-011",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000085",
+    "skill_id": "SKL-003",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000085",
+    "skill_id": "SKL-001",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000085",
+    "skill_id": "SKL-015",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000085",
+    "skill_id": "SKL-014",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000086",
+    "skill_id": "SKL-015",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000086",
+    "skill_id": "SKL-008",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000086",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000086",
+    "skill_id": "SKL-012",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000087",
+    "skill_id": "SKL-003",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000087",
+    "skill_id": "SKL-004",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000087",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000087",
+    "skill_id": "SKL-012",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000088",
+    "skill_id": "SKL-002",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000088",
+    "skill_id": "SKL-006",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000088",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000089",
+    "skill_id": "SKL-008",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000089",
+    "skill_id": "SKL-003",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000089",
+    "skill_id": "SKL-011",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000090",
+    "skill_id": "SKL-004",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000090",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000090",
+    "skill_id": "SKL-005",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000091",
+    "skill_id": "SKL-012",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000091",
+    "skill_id": "SKL-005",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000091",
+    "skill_id": "SKL-007",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000092",
+    "skill_id": "SKL-012",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000092",
+    "skill_id": "SKL-008",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000092",
+    "skill_id": "SKL-014",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000092",
+    "skill_id": "SKL-004",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000093",
+    "skill_id": "SKL-002",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000093",
+    "skill_id": "SKL-014",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000093",
+    "skill_id": "SKL-011",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000093",
+    "skill_id": "SKL-012",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000094",
+    "skill_id": "SKL-013",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000094",
+    "skill_id": "SKL-009",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000094",
+    "skill_id": "SKL-003",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000095",
+    "skill_id": "SKL-007",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000095",
+    "skill_id": "SKL-003",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000095",
+    "skill_id": "SKL-006",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000095",
+    "skill_id": "SKL-012",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000096",
+    "skill_id": "SKL-012",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000096",
+    "skill_id": "SKL-009",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000096",
+    "skill_id": "SKL-004",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000096",
+    "skill_id": "SKL-008",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000097",
+    "skill_id": "SKL-006",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000097",
+    "skill_id": "SKL-007",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000097",
+    "skill_id": "SKL-003",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000097",
+    "skill_id": "SKL-005",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000098",
+    "skill_id": "SKL-010",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000098",
+    "skill_id": "SKL-012",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000098",
+    "skill_id": "SKL-008",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000098",
+    "skill_id": "SKL-015",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000099",
+    "skill_id": "SKL-001",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000099",
+    "skill_id": "SKL-006",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000099",
+    "skill_id": "SKL-003",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000099",
+    "skill_id": "SKL-004",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000099",
+    "skill_id": "SKL-013",
+    "requirement_priority": 5,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000100",
+    "skill_id": "SKL-011",
+    "requirement_priority": 1,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000100",
+    "skill_id": "SKL-006",
+    "requirement_priority": 2,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000100",
+    "skill_id": "SKL-015",
+    "requirement_priority": 3,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000100",
+    "skill_id": "SKL-008",
+    "requirement_priority": 4,
+    "is_required": true
+  },
+  {
+    "requisition_id": "REQ-2026-000100",
+    "skill_id": "SKL-001",
+    "requirement_priority": 5,
+    "is_required": true
+  }
+]

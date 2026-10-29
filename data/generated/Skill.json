@@ -1,0 +1,77 @@
+[
+  {
+    "skill_id": "SKL-001",
+    "name": "Python",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-002",
+    "name": "SQL",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-003",
+    "name": "Java",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-004",
+    "name": "React",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-005",
+    "name": "Data Analysis",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-006",
+    "name": "Power BI",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-007",
+    "name": "Machine Learning",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-008",
+    "name": "AWS",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-009",
+    "name": "Communication",
+    "category": "professional"
+  },
+  {
+    "skill_id": "SKL-010",
+    "name": "Project Management",
+    "category": "professional"
+  },
+  {
+    "skill_id": "SKL-011",
+    "name": "Excel",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-012",
+    "name": "Spring Boot",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-013",
+    "name": "Statistics",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-014",
+    "name": "ETL",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-015",
+    "name": "Linux",
+    "category": "technical"
+  }
+]

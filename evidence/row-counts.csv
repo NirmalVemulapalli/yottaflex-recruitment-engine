@@ -1,0 +1,15 @@
+entity,observed_rows,notes
+Department,7,
+JobRequisition,100,baseline target
+Candidate,2000,baseline target
+Skill,15,
+RequisitionSkill,398,
+CandidateSkill,10971,
+ResumeArtifact,2000,
+ScreeningRule,100,
+Application,3002,"3,000 baseline + 2 deliberate exception rows"
+Interviewer,120,
+Interview,601,600 baseline + 1 deliberate conflict row
+Feedback,286,
+Offer,150,baseline target
+ApplicationEvent,6645,

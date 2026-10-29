@@ -1,0 +1,21 @@
+RECRUITMENT WORKFLOW & DATA QUALITY ENGINE — START HERE
+
+1. Install Python 3.10 or newer.
+2. Open a terminal in this folder.
+3. Windows PowerShell:
+     py -m venv .venv
+     .\.venv\Scripts\Activate.ps1
+     pip install -e ".[test]"
+     python -m recruitment_engine.engine generate --out data/generated --seed 20261022 --scale 1
+     python -m recruitment_engine.engine audit --data data/generated
+     pytest -q
+4. Open README.md for the project overview and docs/ for the data dictionary,
+   architecture, validation scope, and AI prompt history.
+
+The data is synthetic. ground_truth.csv/json are evaluation labels and must not
+be treated as screening features. The audit report intentionally finds the
+labelled edge cases; findings are not automatically evidence of a generator bug.
+
+Before publishing: review the source and results, update docs/PROMPT_HISTORY.md
+with the actual AI prompts you used, and ensure no credentials or confidential
+assessment materials are included in the public repository.

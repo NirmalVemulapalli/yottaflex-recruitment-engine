@@ -1,0 +1,6 @@
+{
+  "database": "data/generated/recruitment_seed.sqlite",
+  "foreign_key_check": "PASS",
+  "violation_count": 0,
+  "violations_sample": []
+}

@@ -1,0 +1,19 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Temporary verification outputs
+/data/run_a/
+/data/run_b/
+/data/test-run-*/
+/var/
+*.log
+
+# Reproducibility verification output
+/data/repro_check/

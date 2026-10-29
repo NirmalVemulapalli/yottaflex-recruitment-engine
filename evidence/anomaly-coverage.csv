@@ -1,0 +1,6 @@
+ground_truth_issue_type,expected_audit_rule,ground_truth_record_id,audit_rule_observed,status
+duplicate_application,duplicate_application_pair,APP-REQ-2026-000001-CAND-000001-DUP01,TRUE,PASS
+interviewer_conflict,interviewer_time_conflict,INT-2026-999999,TRUE,PASS
+missing_feedback_stage_advanced,missing_feedback_before_progression,APP-REQ-2026-000027-CAND-000770,TRUE,PASS
+salary_outside_approved_band,offer_salary_outside_band,OFF-2026-000001,TRUE,PASS
+closed_role_active_application,active_application_on_closed_role,APP-REQ-2026-000001-CAND-000002-EDGE01,TRUE,PASS

@@ -1,0 +1,40 @@
+{
+  "generated_at_utc": "2026-10-29T02:26:38.209619+00:00",
+  "files": [
+    {
+      "file": "anomaly-coverage.csv",
+      "bytes": 575,
+      "sha256": "ad87754131c1b8ba5d5b7bf5a2b60c7711f8c7887bbd8b41aa0f8abbc4e0dae7"
+    },
+    {
+      "file": "metrics-snapshot.json",
+      "bytes": 843,
+      "sha256": "c3676bbfb7e0a61e607b32571d62772fd2e5c0ca275e1464ff02e524ca9ec0c2"
+    },
+    {
+      "file": "row-counts.csv",
+      "bytes": 415,
+      "sha256": "2b54824236016973c44fff48d64534261c93abcc9fee9f51ebb66badaf55751c"
+    },
+    {
+      "file": "sqlite-integrity.json",
+      "bytes": 141,
+      "sha256": "a213b0344f0eae2336230b8c70e81b971a6b37f3c9fea5c40273b2e4820ca55f"
+    },
+    {
+      "file": "test-run.txt",
+      "bytes": 302,
+      "sha256": "868e8d065539d56e57d925016f18106285b4f40f6dee54028bfeb2be912419c0"
+    },
+    {
+      "file": "validation-snapshot.json",
+      "bytes": 674,
+      "sha256": "1f19d0ced564057d448807704ed8256e8a5c83e268f3ec6dba26d0d9f8451580"
+    },
+    {
+      "file": "verification-summary.json",
+      "bytes": 1631,
+      "sha256": "fca760d89dfed47c0de0b54e63f9fcd2dbda549980ba728dce82b00e801cab11"
+    }
+  ]
+}

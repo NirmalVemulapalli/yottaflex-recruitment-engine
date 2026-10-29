@@ -1,0 +1,27 @@
+{
+  "application_count": 3002,
+  "screening_pass_rate_pct": 26.55,
+  "average_screening_score": 43.58,
+  "application_stage_distribution": {
+    "withdrawn": 1220,
+    "rejected": 1301,
+    "screened": 157,
+    "offer": 81,
+    "hired": 35,
+    "interview": 158,
+    "interview_passed": 50
+  },
+  "withdrawn_application_rate_pct": 40.64,
+  "interview_count": 601,
+  "completed_interview_count": 287,
+  "completed_interview_feedback_coverage_pct": 99.65,
+  "offer_count": 150,
+  "offer_acceptance_rate_pct": 23.33,
+  "offers_within_salary_band_pct": 99.33,
+  "currency": "INR",
+  "notes": [
+    "Metrics are derived from generated operational records.",
+    "The deliberately injected salary-band exception is included in offers_within_salary_band_pct.",
+    "These are synthetic demonstration metrics, not real-world hiring benchmarks."
+  ]
+}

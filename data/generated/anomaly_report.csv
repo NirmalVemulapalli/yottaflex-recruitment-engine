@@ -1,0 +1,6 @@
+rule,severity,entity_ids,details
+"duplicate_application_pair","high","APP-REQ-2026-000001-CAND-000001;APP-REQ-2026-000001-CAND-000001-DUP01","Duplicate pair REQ-2026-000001 / CAND-000001"
+"interviewer_time_conflict","high","INT-2026-000001;INT-2026-999999","Overlapping slots for IVR-0001"
+"missing_feedback_before_progression","high","APP-REQ-2026-000027-CAND-000770","Application advanced despite missing feedback"
+"active_application_on_closed_role","medium","APP-REQ-2026-000001-CAND-000002-EDGE01","Application is active while requisition is closed"
+"offer_salary_outside_band","high","OFF-2026-000001","Offer salary outside approved requisition band"

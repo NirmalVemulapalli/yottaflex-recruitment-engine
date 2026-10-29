@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "warnings": [],
+  "checks": {
+    "primary_key_uniqueness": "completed",
+    "foreign_key_integrity": "completed",
+    "allowed_enums": "completed",
+    "date_ordering": "completed",
+    "salary_and_score_bounds": "completed",
+    "approval_presence": "completed",
+    "duplicate_application_pairs_detected": 1
+  },
+  "notes": [
+    "Known injected anomalies are expected and listed separately in ground_truth.csv/json.",
+    "Business-rule findings are computed separately by the audit command.",
+    "Warnings identify expected or reviewable edge-case conditions; validation errors indicate structural or invariant failures."
+  ]
+}

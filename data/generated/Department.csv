@@ -1,0 +1,8 @@
+department_id,name,active
+DEP-001,Engineering,True
+DEP-002,Data,True
+DEP-003,Product,True
+DEP-004,Operations,True
+DEP-005,Finance,True
+DEP-006,Customer Success,True
+DEP-007,Security,True

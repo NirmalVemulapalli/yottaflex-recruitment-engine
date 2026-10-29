@@ -1,0 +1,37 @@
+[
+  {
+    "issue_type": "duplicate_application",
+    "entity_type": "Application",
+    "entity_id": "APP-REQ-2026-000001-CAND-000001-DUP01",
+    "expected_decision": "flag_duplicate",
+    "description": "Same requisition-candidate pair as APP-REQ-2026-000001-CAND-000001"
+  },
+  {
+    "issue_type": "interviewer_conflict",
+    "entity_type": "Interview",
+    "entity_id": "INT-2026-999999",
+    "expected_decision": "flag_schedule_conflict",
+    "description": "Overlaps another interview for the same interviewer; baseline interview remains unchanged"
+  },
+  {
+    "issue_type": "missing_feedback_stage_advanced",
+    "entity_type": "Application",
+    "entity_id": "APP-REQ-2026-000027-CAND-000770",
+    "expected_decision": "block_transition",
+    "description": "Stage advanced without required structured feedback"
+  },
+  {
+    "issue_type": "salary_outside_approved_band",
+    "entity_type": "Offer",
+    "entity_id": "OFF-2026-000001",
+    "expected_decision": "reject_or_escalate",
+    "description": "Salary exceeds requisition approved maximum"
+  },
+  {
+    "issue_type": "closed_role_active_application",
+    "entity_type": "Application",
+    "entity_id": "APP-REQ-2026-000001-CAND-000002-EDGE01",
+    "expected_decision": "flag_or_close_application",
+    "description": "Application remains active after requisition closure"
+  }
+]

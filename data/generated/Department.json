@@ -1,0 +1,37 @@
+[
+  {
+    "department_id": "DEP-001",
+    "name": "Engineering",
+    "active": true
+  },
+  {
+    "department_id": "DEP-002",
+    "name": "Data",
+    "active": true
+  },
+  {
+    "department_id": "DEP-003",
+    "name": "Product",
+    "active": true
+  },
+  {
+    "department_id": "DEP-004",
+    "name": "Operations",
+    "active": true
+  },
+  {
+    "department_id": "DEP-005",
+    "name": "Finance",
+    "active": true
+  },
+  {
+    "department_id": "DEP-006",
+    "name": "Customer Success",
+    "active": true
+  },
+  {
+    "department_id": "DEP-007",
+    "name": "Security",
+    "active": true
+  }
+]
